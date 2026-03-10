@@ -3,6 +3,7 @@ This is the second week Rush of 42 Schools Piscine
 
 It meant to be scalable but unfortunately, it works only for 4x4. <br>
 To change the size, only change the number in the size.h header file. <br>
+
 There is no problem with generating all the possible combinations for a given size but when it comes to solving... <br>
 For larger sizes, (like 5x5, etc.) the search space becomes much larger, and the current loop-based brute-force approach is no longer efficient enough... <br>
 (What was I thinking??) <br>
